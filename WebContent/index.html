@@ -1,0 +1,55 @@
+
+	<script type="text/javascript" src="AjaxCall.js"></script>
+<div style= "height:100%; width:100%">
+    <div style= "background:green; height:20%; width:100%; float:left"> 
+        <div style= "background:#3b5998; height:100%; width:70%; float:left">
+		</div>
+		<div style= "background:#3b5998; height:100%; width:30%; float:left">
+			<form action="controller" method="post">
+			<table cellpadding=4>
+			<tr>
+			<td></td>
+			</tr>
+			<tr>
+			<td><font color="white">UserID</font></td>
+			<td><font color="white">Password</font></td>
+			</tr>
+			<tr>
+				<td><input type="text" name="uid"></td>
+				<td><input type="password" id="pwd" name="pwd"></td>
+				<td><button type="submit">Login</button></td>
+			</tr>
+			
+			<tr>
+				<td><a href="url" style="color:white">Forgot password?</a></td>
+				<td><font color="white"><a href="url" style="color:white">Forgot Userid?</a></font></td>
+			</tr>
+			</table>
+			</form>
+		</div>
+    </div>
+    <div style= "background:yellow; height:80%; width:100%; float:left"> 
+	    <div style= "background:#ffffff; height:100%; width:70%; float:left">
+		</div>
+		<div style= "background:#ffffff; height:100%; width:30%; float:left">
+		<h1>Create New Account</h1>
+			<form action="registers" method="post">
+		   <p><input onblur='validuserid();' type="text" placeholder=" UserId" name="userid" id="na"  style="font-size:14pt;height:35;width:250" ></p>
+		   <p><input type="text" placeholder=" First Name" name="fname" style="font-size:14pt;height:35;width:250" ></p>
+		   <p><input type="text" placeholder=" Last Name" name="lname" style="font-size:14pt;height:35;width:250"></p>
+		   <p><input type="text" placeholder=" Email" name="email" style="font-size:14pt;height:35;width:250"></p>
+		   <p><input type="password" placeholder=" Password" name="pass" style="font-size:14pt;height:35;width:250"></p>
+		   <p><input type="password" placeholder=" Confirm Password" name="cpass" style="font-size:14pt;height:35;width:250"></p>
+		   <p><input type="number" placeholder=" Birthday" name="bdy" style="font-size:14pt;height:35;width:250"></p>
+		   <p><input type="radio" value="male" name="gender"> <font size="5">Male</font>
+		      <input type="radio" value="female" name="gender"> <font size="5">Female</font></p>
+			  <button type="submit">Create Account</button>
+			</form>
+		    
+		   
+		
+		</div>
+	    
+	</div>
+
+</div>

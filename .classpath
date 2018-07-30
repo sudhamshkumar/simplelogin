@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/sudhamsh/Desktop/Java/Java EE/jars/javax.servlet-3.0.0.v201112011016.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/sudhamsh/Desktop/Java/Java EE/jars/jdbc-oracle.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/sudhamsh/Desktop/Java/Java EE/jars/mysql-connector.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/sudhamsh/Desktop/Java/Java EE/jars/struts/asm-3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sudhamsh/Desktop/Java/Java EE/jars/struts/asm-commons-3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sudhamsh/Desktop/Java/Java EE/jars/struts/asm-tree-3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sudhamsh/Desktop/Java/Java EE/jars/struts/commons-fileupload-1.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sudhamsh/Desktop/Java/Java EE/jars/struts/commons-io-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sudhamsh/Desktop/Java/Java EE/jars/struts/commons-lang3-3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sudhamsh/Desktop/Java/Java EE/jars/struts/freemarker-2.3.22.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sudhamsh/Desktop/Java/Java EE/jars/struts/javassist-3.11.0.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sudhamsh/Desktop/Java/Java EE/jars/struts/ognl-3.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sudhamsh/Desktop/Java/Java EE/jars/struts/struts2-core-2.3.24.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sudhamsh/Desktop/Java/Java EE/jars/struts/xwork-core-2.3.24.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sudhamsh/Desktop/Java/Java EE/jars/spring/apache-commons.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sudhamsh/Desktop/Java/Java EE/jars/spring/aspectjrt.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sudhamsh/Desktop/Java/Java EE/jars/spring/aspectjtools.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sudhamsh/Desktop/Java/Java EE/jars/spring/aspectjweaver.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sudhamsh/Desktop/Java/Java EE/jars/spring/commons-dbcp-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sudhamsh/Desktop/Java/Java EE/jars/spring/jboss-logging-3.1.1.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sudhamsh/Desktop/Java/Java EE/jars/spring/org.aspectj.matcher.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sudhamsh/Desktop/Java/Java EE/jars/spring/spring-aop-4.1.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sudhamsh/Desktop/Java/Java EE/jars/spring/spring-aspects-4.1.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sudhamsh/Desktop/Java/Java EE/jars/spring/spring-beans-4.1.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sudhamsh/Desktop/Java/Java EE/jars/spring/spring-context-4.1.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sudhamsh/Desktop/Java/Java EE/jars/spring/spring-context-support-4.1.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sudhamsh/Desktop/Java/Java EE/jars/spring/spring-core-4.1.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sudhamsh/Desktop/Java/Java EE/jars/spring/spring-expression-4.1.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sudhamsh/Desktop/Java/Java EE/jars/spring/spring-instrument-4.1.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sudhamsh/Desktop/Java/Java EE/jars/spring/spring-instrument-tomcat-4.1.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sudhamsh/Desktop/Java/Java EE/jars/spring/spring-jdbc-4.1.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sudhamsh/Desktop/Java/Java EE/jars/spring/spring-jms-4.1.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sudhamsh/Desktop/Java/Java EE/jars/spring/spring-messaging-4.1.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sudhamsh/Desktop/Java/Java EE/jars/spring/spring-orm-4.1.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sudhamsh/Desktop/Java/Java EE/jars/spring/spring-oxm-4.1.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sudhamsh/Desktop/Java/Java EE/jars/spring/spring-test-4.1.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sudhamsh/Desktop/Java/Java EE/jars/spring/spring-tx-4.1.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sudhamsh/Desktop/Java/Java EE/jars/spring/spring-web-4.1.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sudhamsh/Desktop/Java/Java EE/jars/spring/spring-webmvc-4.1.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sudhamsh/Desktop/Java/Java EE/jars/spring/spring-webmvc-portlet-4.1.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sudhamsh/Desktop/Java/Java EE/jars/spring/spring-websocket-4.1.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sudhamsh/Desktop/Java/Java EE/jars/hibernate/com.springsource.org.aopalliance-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sudhamsh/Desktop/Java/Java EE/jars/hibernate/hibernate3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sudhamsh/Desktop/Java/Java EE/jars/hibernate/hibernate-commons-annotations-4.0.0.CR2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sudhamsh/Desktop/Java/Java EE/jars/hibernate/hibernate-core-4.0.0.CR2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sudhamsh/Desktop/Java/Java EE/jars/hibernate/hibernate-jpa-2.0-api-1.0.0.Final.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
